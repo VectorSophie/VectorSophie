@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VectorSophie
 - 👀 I’m interested in: Anything, really.
-- 🌱 I’m currently learning: Java, HTML, CSS
+- 🌱 I’m currently learning: JS, HTML, CSS
 - 💞️ I’m looking to collaborate on: Anything(yes, anything)
 - 📫 How to reach me: Mailing would be nice!
 - 😄 Pronouns: Dont care, call me whatever.
