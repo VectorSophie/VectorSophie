@@ -19,7 +19,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,figma,nextjs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,nextjs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">etc:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode, eclipse, figma, windows, mysql, npm, pnpm, tensorflow"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,figma,windows,mysql,npm,pnpm,tensorflow"/></td>
     </tr>
 </table>
 
