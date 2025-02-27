@@ -15,7 +15,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/VectorSophie">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="VectorSophie" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VectorSophie&&theme=tokyonight" alt="VectorSophie" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,html,javascript,python,,nodejs,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,html,javascript,python,nodejs,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
