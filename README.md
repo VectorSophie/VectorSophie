@@ -4,7 +4,7 @@
 
 
 
-Interests:
+Interests
   🌍 Worldbuilding & writing
   💻 Coding 
   🧠 Philosophy & deep discussions
