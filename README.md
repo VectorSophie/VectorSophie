@@ -23,32 +23,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,html,javascript,python,nodejs,vite"/></td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,figma,nextjs"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,vite"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Package Manager:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm, pnpm"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">etc:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse, npm, pnpm, docker, git, github"/></td>
     </tr>
 </table>
 
