@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jackand I'm a developer/writer</h2>
+<h2 align="left">Hi 👋! My name is Jack and I'm a developer/writer</h2>
 
 ###
 
@@ -43,16 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="125" src="https://ibb.co/B2Q6y74j"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VectorSophie/VectorSophie/output/snake.svg" alt="Snake animation" />
-
-###
