@@ -26,8 +26,8 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,vite"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">etc:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse, npm, pnpm, docker, git, github, tensorflow"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode, eclipse, npm, pnpm, docker, git, github, tensorflow"/></td>
     </tr>
 </table>
 
