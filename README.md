@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tailwind,html,css,js,ts,figma,nextjs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -47,8 +47,8 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Package Manager:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm, pnpm"/></td>
     </tr>
 </table>
 
