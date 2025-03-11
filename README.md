@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Jack and I'm a developer/writer!(I swear I'm a python major I just dont have them on github)"</h2>
+<h2 align="left">Hi! My name is Jack and I'm a developer/writer!(I swear I'm a python major I just dont have them on github)</h2>
 
 ###
 
