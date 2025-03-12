@@ -1,5 +1,5 @@
 <h2 align="left">Hi! My name is Jack and I'm a developer/writer!</h2>
-<div align="center"> ps. i have very chaotic commit message. </div>
+<div align="left"> ps. i have very chaotic commit message. </div>
 
 ###
 
