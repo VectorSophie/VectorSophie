@@ -2,11 +2,9 @@
 <div align="left"> i love silly projects, so always count me in. </div>
 <div align="left"> ps. i have very chaotic commit message. </div>
 
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&locale=en&layout=compact&card_width=320&langs_count=20&theme=dark"/>
 </div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
