@@ -1,10 +1,11 @@
-<h2 align="left">Hi! My name is Jack and I'm a developer/writer!</h2>
-<div align="left"> i love silly projects, so always count me in. </div>
-<div align="left"> ps. i have a very chaotic & silly commit message. </div>
+<h2 align="left">Hi! My name is Jack and I'm a developer/writer.</h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&locale=en&layout=compact&card_width=320&langs_count=20&theme=dark"/>
 </div>
+
+<div align="left"> i love silly projects, so always count me in. </div>
+<div align="left"> ps. i have a very chaotic & silly commit message. </div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
