@@ -3,7 +3,7 @@
 <div align="left"> i love silly projects, so always count me in. </div>
 <div align="left"> ps. i have a very chaotic & silly commit message. </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&locale=en&layout=compact&card_width=480&langs_count=20&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&locale=en&layout=compact&card_width=480&langs_count=20&theme=tokyonight">
 </div>
 
 <div align="center">
