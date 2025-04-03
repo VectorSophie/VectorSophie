@@ -6,10 +6,7 @@ cat pics are always free so always ask.
 
 ps. i have a very chaotic & silly commit message.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![Top Langs](img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&layout=compact&card_width=480&langs_count=8&theme=tokyonight&cache_seconds=3600")
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=VectorSophie&layout=compact&card_width=480&langs_count=8&theme=tokyonight&cache_seconds=3600)
 
 # Language Stacks  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
