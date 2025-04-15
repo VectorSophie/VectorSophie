@@ -6,7 +6,7 @@ cat pics are always free so always ask.
 
 ps. i have a very chaotic & silly commit message.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&theme=tokyonight&langs_count=8&locale=kr&card_width=500) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&theme=tokyonight&langs_count=8&locale=kr&card_width=500) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight)
 
 
 ## Here are some of my stacks listed in alphabetical order
