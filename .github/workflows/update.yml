@@ -1,0 +1,24 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README stats
+      run: |
+        curl -s https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&theme=tokyonight&langs_count=8&locale=en&card_width=500 > ./images/top-langs.svg
+        git config --local user.name "VectorSophie"
+        git config --local user.email "jay7math@gmail.com"
+        git add ./images/top-langs.svg
+        git commit -m "Update readme stats"
+        git push
+
+          echo test, and deploy your project.
