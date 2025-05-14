@@ -1,0 +1,14 @@
+name: Refresh Stats Cache
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:  
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hit GitHub Readme Stats to refresh cache
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&count_private=true" > /dev/null
