@@ -6,7 +6,7 @@ cat pics are always free so always ask.
 
 ps. i have a very chaotic & silly commit message.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&theme=tokyonight&langs_count=8&locale=en&card_width=500&v=4) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorSophie&layout=compact&theme=tokyonight&langs_count=8&locale=en&card_width=500&v=5) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight)
 
 # Language Stacks  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
