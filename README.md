@@ -2,6 +2,8 @@
 
 i love silly projects, so always count me in.
 
+i try to not work weekends tho
+
 cat pics are always free so always ask.
 
 ps. i have a very chaotic & silly commit message.
