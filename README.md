@@ -53,3 +53,12 @@ English: Literally the preferred choice in many scenarios.
 Spanish: Has talked with locals in Santiago.
 
 Arabic: Can recite "Al-Fatiha."
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
