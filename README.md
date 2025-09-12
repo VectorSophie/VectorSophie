@@ -62,8 +62,6 @@ Spanish: Has talked with locals in Santiago.
 
 Chinese: Relearning(former YCT4)
 
-Arabic: Can recite "Al-Fatiha."
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
