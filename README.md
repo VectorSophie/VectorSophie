@@ -60,6 +60,8 @@ English: Literally the preferred choice in many scenarios.
 
 Spanish: Has talked with locals in Santiago.
 
+Chinese: Relearning(former YCT4)
+
 Arabic: Can recite "Al-Fatiha."
 
 <picture>
