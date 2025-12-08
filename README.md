@@ -10,7 +10,7 @@ if you want to contact me email me at jay7math@gmail.com!
 
 ps. i tend to slack off to git commit messages in solo repos
 
-![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=69) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
+![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
 
 ## Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
