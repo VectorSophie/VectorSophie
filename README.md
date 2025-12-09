@@ -67,6 +67,10 @@ ps. i tend to slack off to git commit messages in solo repos
 ![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF4F?style=for-the-badge&logo=linuxmint&logoColor=white)
+
 ## Languages
 English: Literally the preferred choice in many scenarios.
 
