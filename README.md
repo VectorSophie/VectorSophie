@@ -19,7 +19,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 ![Arknights-ClassPredictor](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
 ![StructGen](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
 
-![Finecone](https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=fullstack)
+![Finecone](https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend)
 ![SYN_flooding](https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
 ![Indicamp](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
 
