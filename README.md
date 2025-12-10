@@ -1,16 +1,16 @@
 ## Hi! My name is Jack and I'm a developer/writer.
 
+![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
+
 I love opensource projects, and silly ideas.
 
 Small projects from time to time, most big projects are in orgs!
 
 I do Fullstack, AI & LLM and ponder other languages(Java, Svelte, etc) occasionaly.
 
-if you want to contact me email me at jay7math@gmail.com!
+## Featured Projects
 
-ps. i tend to slack off to git commit messages in solo repos
-
-![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
+> Pinned below. Each one solves a real problem, teaches me something painful, or both.
 
 ## Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,12 +30,10 @@ ps. i tend to slack off to git commit messages in solo repos
 ## Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-ED2B88?style=for-the-badge&logo=celery&logoColor=white)
@@ -62,6 +60,29 @@ ps. i tend to slack off to git commit messages in solo repos
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
+## Open Source
+I care about open source because it turns private learning into public infrastructure.  
+I’m most interested in contributing to:
+- Dev tools
+- AI infrastructure
+- Education-focused software
+
+## Contact
+If you want to collaborate, talk shop, or build something questionable in a productive way:
+
+**jay7math@gmail.com**  
+
+Not interested in:
+- Crypto miracles  
+- “star my repos and back"
+
+## Languages
+English: Literally the preferred choice in many scenarios.
+
+Spanish: Has talked with locals in Santiago.
+
+Chinese: Relearning(former YCT4)
+
 ## Social / Profiles
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -72,13 +93,6 @@ ps. i tend to slack off to git commit messages in solo repos
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF4F?style=for-the-badge&logo=linuxmint&logoColor=white)
-
-## Languages
-English: Literally the preferred choice in many scenarios.
-
-Spanish: Has talked with locals in Santiago.
-
-Chinese: Relearning(former YCT4)
 
 <picture>
   <source
