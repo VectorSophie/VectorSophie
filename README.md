@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) 
 ![GitHub stats](https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight)
-![Trophy](https://github-stats-iota-gray.vercel.app/api/trophy/?username=VectorSophie&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
 
 Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
@@ -14,13 +14,14 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Featured Projects
 
-![OpenFrontIO](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO)
-![Storytime](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=Storytime)
-![Arknights-ClassPredictor](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
-![LLM fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Finecone&repo=fullstack)
-![SYN_flooding](https://github-readme-stats.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
-![Structgen](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
-![Indicamp](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
+![OpenFrontIO](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO)
+![Storytime](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Storytime)
+![Arknights-ClassPredictor](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
+![StructGen](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
+
+![Finecone](https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=fullstack)
+![SYN_flooding](https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
+![Indicamp](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
 
 ## Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
