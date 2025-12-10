@@ -1,12 +1,12 @@
-## Hi! My name is Jack and I'm a developer/writer.
+# Hi! My name is Jack and I'm a developer/writer.
 
 ![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight) ![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
 
-I love opensource projects, and silly ideas.
+Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
 Small projects from time to time, most big projects are in orgs!
 
-I do Fullstack, AI & LLM and ponder other languages(Java, Svelte, etc) occasionaly.
+I like useful software, silly ideas that somehow work, and small projects that teach lessons.
 
 ## Featured Projects
 
@@ -24,11 +24,9 @@ I do Fullstack, AI & LLM and ponder other languages(Java, Svelte, etc) occasiona
 ![Next.js](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -48,7 +46,6 @@ I do Fullstack, AI & LLM and ponder other languages(Java, Svelte, etc) occasiona
 ## Data Science & AI
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
@@ -79,7 +76,7 @@ Not interested in:
 ## Languages
 English: Literally the preferred choice in many scenarios.
 
-Spanish: Has talked with locals in Santiago.
+Spanish: Has talked with locals on the camino de santiago.
 
 Chinese: Relearning(former YCT4)
 
