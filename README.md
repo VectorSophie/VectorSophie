@@ -76,16 +76,19 @@ Not interested in:
 ## Languages
 English: Literally the preferred choice in many scenarios.
 
+Korean: Native language, i do poetry and short stories occasionally.
+
 Spanish: Has talked with locals on the camino de santiago.
 
 Chinese: Relearning(former YCT4)
 
 ## Social / Profiles
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VectorSophie)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baeck-dongjae-368886368/)
+[![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white)](https://blog.naver.com/paranormalian)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@vectorsophie/posts)
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
