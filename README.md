@@ -12,7 +12,13 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Featured Projects
 
-> Pinned below. Each one solves a real problem, teaches me something painful, or both.
+![OpenFrontIO](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO)
+![Storytime](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=Storytime)
+![Arknights-ClassPredictor](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
+![LLM fullstack](https://github-readme-stats.vercel.app/api/pin/?username=Finecone&repo=fullstack)
+![SYN_flooding](https://github-readme-stats.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
+![Structgen](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
+![Indicamp](https://github-readme-stats.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
 
 ## Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
