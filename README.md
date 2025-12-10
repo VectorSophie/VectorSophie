@@ -15,14 +15,19 @@ I like useful software, silly ideas that somehow work, and small projects that t
 ## Featured Projects
 
 **personal projects**
-![OpenFrontIO](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO)
-![Storytime](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Storytime)
-![Arknights-ClassPredictor](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
-![StructGen](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO" alt="OpenFrontIO" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Storytime" alt="Storytime" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor" alt="Arknights-ClassPredictor" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen" alt="StructGen" width="200">
+</div>
+
 **team projects**
-![Finecone](https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend)
-![SYN_flooding](https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
-![Indicamp](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend" alt="Finecone" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack" alt="SYN_flooding" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp" alt="Indicamp" width="200">
+</div>
 
 ## Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
