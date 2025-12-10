@@ -4,6 +4,8 @@
 
 Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
+[!Github page](https://vector-sophie-github-io.vercel.app/)
+
 Small projects from time to time, most big projects are in orgs!
 
 I like useful software, silly ideas that somehow work, and small projects that teach lessons.
