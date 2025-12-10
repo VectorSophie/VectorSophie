@@ -14,11 +14,12 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Featured Projects
 
+**personal projects**
 ![OpenFrontIO](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO)
 ![Storytime](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Storytime)
 ![Arknights-ClassPredictor](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor)
 ![StructGen](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen)
-
+**team projects**
 ![Finecone](https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend)
 ![SYN_flooding](https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack)
 ![Indicamp](https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp)
@@ -50,7 +51,6 @@ I like useful software, silly ideas that somehow work, and small projects that t
 ## UI/UX
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Radix ui](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![Lucide ui](https://img.shields.io/badge/Lucide_UI-000000?style=for-the-badge&logo=lucide&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
