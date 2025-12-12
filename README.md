@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=11&locale=en&card_width=500&v=71) 
 ![GitHub stats](https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=VectorSophie&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
