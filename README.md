@@ -26,7 +26,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 **team projects**
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend" alt="Finecone" width="200">
-    <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack" alt="SYN_flooding" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack&v=1"alt="SYN_flooding"width="200"/>
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp" alt="Indicamp" width="200">
 </div>
 
