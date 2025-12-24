@@ -1,7 +1,9 @@
 # Hi! My name is Jack and I'm a developer/writer.
 
-<img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&theme=tokyonight&show_icons=true&layout=compact&card_width=500" />
-<img src="https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&theme=tokyonight&layout=compact&card_width=500&langs_count=12" />
+<div style="display: flex; gap: 1rem; align-items: stretch;">
+  <img src="https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=12&card_width=500&locale=en&v=87" style="height: 200px; object-fit: cover;" alt="Top Langs">
+  <img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight" style="height: 200px; object-fit: cover;" alt="GitHub Stats">
+</div>
 
 Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
