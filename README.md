@@ -13,6 +13,8 @@ Small projects from time to time, most big projects are in orgs!
 
 I like useful software, silly ideas that somehow work, and small projects that teach lessons.
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vectorsophie)
+
 ## Featured Projects
 
 **personal projects**
