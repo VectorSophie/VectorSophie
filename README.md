@@ -13,8 +13,6 @@ Small projects from time to time, most big projects are in orgs!
 
 I like useful software, silly ideas that somehow work, and small projects that teach lessons.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vectorsophie)
-
 ## Featured Projects
 
 **personal projects**
@@ -111,6 +109,7 @@ Chinese: Relearning(former YCT4)
 [![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white)](https://blog.naver.com/paranormalian)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@vectorsophie/posts)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vectorsophie)
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
