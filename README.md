@@ -1,7 +1,7 @@
 # Hi! My name is Jack and I'm a developer/writer.
 
 <div style="display: flex; gap: 1rem; align-items: stretch;">
-  <img src="https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=12&card_width=500&locale=en&v=1" style="height: 200px; object-fit: cover;" alt="Top Langs">
+  <img src="https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=12&card_width=500&locale=en&v=2" style="height: 200px; object-fit: cover;" alt="Top Langs">
   <img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight&v=87" style="height: 200px; object-fit: cover;" alt="GitHub Stats">
 </div>
 
