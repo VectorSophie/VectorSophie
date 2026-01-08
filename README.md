@@ -5,6 +5,8 @@
   <img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight&v=87" style="height: 200px; object-fit: cover;" alt="GitHub Stats">
 </div>
 
+> _**End-to-end, open & open. Until every end-to-end flow is open to public.**_
+
 Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
 
 [Github page](https://vector-sophie-github-io.vercel.app/)
