@@ -56,6 +56,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-ffffff?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=ffffff)](#)
 [![Radix UI](https://img.shields.io/badge/-Radix%20UI-ffffff?style=for-the-badge&labelColor=black&logo=radixui&logoColor=ffffff)](#)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#)
 
 ## AI
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
