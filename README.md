@@ -100,8 +100,6 @@ English: Literally the preferred choice in many scenarios.
 
 Korean: Native language, i do poetry and short stories occasionally.
 
-Spanish: Has talked with locals on the camino de santiago.
-
 Chinese: Relearning(former YCT4)
 
 ## Social / Profiles
