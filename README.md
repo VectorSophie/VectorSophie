@@ -20,7 +20,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 **personal projects**
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO" alt="OpenFrontIO" width="200">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Storytime" alt="Storytime" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Lingomon" alt="Lingomon" width="200">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor" alt="Arknights-ClassPredictor" width="200">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen" alt="StructGen" width="200">
 </div>
