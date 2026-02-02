@@ -83,7 +83,7 @@ I care about open source because it turns private learning into public infrastru
 I’m most interested in contributing to:
 - Dev tools
 - AI infrastructure
-- Education-focused software
+- Education-focused softwares
 
 ### My Contributions
 ![OSS Contributions](./contributions.svg)
