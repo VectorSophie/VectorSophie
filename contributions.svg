@@ -21,26 +21,26 @@
   
     <defs>
       <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#e8f4fc"/>
-        <stop offset="100%" style="stop-color:#f0e6fa"/>
+        <stop offset="0%" style="stop-color:#1a1b26"/>
+        <stop offset="100%" style="stop-color:#16161e"/>
       </linearGradient>
     </defs>
     <rect width="480" height="403" fill="url(#bgGrad)" rx="16"/>
   
   
     <g transform="translate(18, 23)">
-      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1a1a2e">
+      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#c0caf5">
         Open-Source Contributions
       </text>
       <g transform="translate(0, 26)">
-        <svg width="16" height="16" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
-        <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#22c55e">
+        <svg width="16" height="16" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
+        <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#73daca">
           14 PRs Merged · 7 Repos
         </text>
       </g>
       <g transform="translate(364, 5)">
-        <rect width="80" height="24" rx="12" fill="#22c55e"/>
-        <text x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle">
+        <rect width="80" height="24" rx="12" fill="#73daca"/>
+        <text x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="#1a1b26" text-anchor="middle">
           Score: 280
         </text>
       </g>
@@ -49,7 +49,7 @@
   
       <g transform="translate(18, 76)" class="card card-0">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -59,42 +59,42 @@
             </clipPath>
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-0)"/>
+          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-0)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
-          Geumcheon-SeSAC-...
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          openfrontio/Open...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #6
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #2778
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Documentation: new con...
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          Fluentslider rapid-fir...
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
-            Merged
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Bug Fix
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Jan 9, 2026
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Jan 4, 2026
           </text>
         </g>
       </g>
     
       <g transform="translate(235, 76)" class="card card-1">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -104,42 +104,42 @@
             </clipPath>
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-1)"/>
+          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-1)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
-          Geumcheon-SeSAC-...
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          openfrontio/Open...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #3
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #2682
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Refactor: DFS usage in...
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          Rework fluentslider co...
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
             Merged
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Jan 9, 2026
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Dec 24, 2025
           </text>
         </g>
       </g>
     
       <g transform="translate(18, 183)" class="card card-2">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -153,38 +153,38 @@
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
           openfrontio/Open...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #2778
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #2148
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Fluentslider rapid-fir...
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          Slider UI change
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
-            Bug Fix
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Merged
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Jan 4, 2026
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Oct 13, 2025
           </text>
         </g>
       </g>
     
       <g transform="translate(235, 183)" class="card card-3">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -198,38 +198,38 @@
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
           openfrontio/Open...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #2682
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #2046
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Rework fluentslider co...
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          pseudorandom.ts minor ...
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
             Merged
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Dec 24, 2025
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Sep 12, 2025
           </text>
         </g>
       </g>
     
       <g transform="translate(18, 290)" class="card card-4">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -239,42 +239,42 @@
             </clipPath>
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-4)"/>
+          <image href="data:image/png;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APabOFTwBhQMfWoru6vIpJ2t44iiLhQwOS+3PXOPwx/OtC3QqoAX5dvXPfvVfUbVZJMMCBIBhwPusuevHoTz7VTYioNYk+zXCfZyLxHKKmzj7u7djPT29wOtTwzXM1yq3CRrGyH7ozhhj+LODkE9h0rE+zTsxUpGcwKhOTnaWKk4xjpz6Zyfat6whVNxwWEabS5HLMcE/XgDnJzn60rjGXcKBGDfdx3rL8u1/wAmti9VZ7bAYgNjoMHr71Q/s+L/AG6oRf1HU4tH0uW9mG4J0UdyTgCuXPxAsxpMbXEUkl4d52xgKFOTt5PtjsetX9XvNK1zTL/T/t0ayQJ5rEk4XHOc9x649a8i1HVku5f3aqI0UJtQYyAAM8+uCamwzvtM1GfU4HvYLQtDEczQoil0xkgZPUdO3+FTP8RLa5sI4LC2uVvJpB0AJ+8OenJI4x2rl/hx4ne01e+0vAc3Z/dBum8cYx7g/pXXahPF4O8M6c8cMbN9r3nAH3SzNgH/AHeBQB1UHntZQNcnM/lr5hGPvY5/rS4HrTVu4bqziuYZN0UoDIw7g80zzF9aoR85LqE4z3Vh8wxjI98VNZXzGyulMSBGBY5HcAgH1zye9Uf4f+Amp7T/AJB1z/nvUgZ2lam+n+ILW6Rm/duCePzr1fxl4isfEVksVk7NHbkPu24DcH15rxpP+P1fqK7PT/8AkHT/AO5/jTGdj4N8Sx22iXVreuVjhJaANnk4OVB/z1rR/wCEzsv+eTf99/8A1q4Oz/5Bsn/XSm0XEf/Z" x="0" y="0" width="28" height="28" clip-path="url(#circleView-4)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
-          SYNflooding/Full...
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          NotherWael/LCB-I...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #1
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #4
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Final
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          Tags now auto-scale
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
             Merged
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Nov 30, 2025
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Sep 18, 2025
           </text>
         </g>
       </g>
     
       <g transform="translate(235, 290)" class="card card-5">
         <!-- Card Background -->
-        <rect width="205" height="95" rx="12" fill="#1e2130"/>
+        <rect width="205" height="95" rx="12" fill="#24283b"/>
 
         <!-- Repo Icon -->
         <g transform="translate(14, 14)">
@@ -284,35 +284,35 @@
             </clipPath>
           </defs>
           <circle cx="14" cy="14" r="14" fill="#2d3348"/>
-          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-5)"/>
+          <image href="data:image/png;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APabOFTwBhQMfWoru6vIpJ2t44iiLhQwOS+3PXOPwx/OtC3QqoAX5dvXPfvVfUbVZJMMCBIBhwPusuevHoTz7VTYioNYk+zXCfZyLxHKKmzj7u7djPT29wOtTwzXM1yq3CRrGyH7ozhhj+LODkE9h0rE+zTsxUpGcwKhOTnaWKk4xjpz6Zyfat6whVNxwWEabS5HLMcE/XgDnJzn60rjGXcKBGDfdx3rL8u1/wAmti9VZ7bAYgNjoMHr71Q/s+L/AG6oRf1HU4tH0uW9mG4J0UdyTgCuXPxAsxpMbXEUkl4d52xgKFOTt5PtjsetX9XvNK1zTL/T/t0ayQJ5rEk4XHOc9x649a8i1HVku5f3aqI0UJtQYyAAM8+uCamwzvtM1GfU4HvYLQtDEczQoil0xkgZPUdO3+FTP8RLa5sI4LC2uVvJpB0AJ+8OenJI4x2rl/hx4ne01e+0vAc3Z/dBum8cYx7g/pXXahPF4O8M6c8cMbN9r3nAH3SzNgH/AHeBQB1UHntZQNcnM/lr5hGPvY5/rS4HrTVu4bqziuYZN0UoDIw7g80zzF9aoR85LqE4z3Vh8wxjI98VNZXzGyulMSBGBY5HcAgH1zye9Uf4f+Amp7T/AJB1z/nvUgZ2lam+n+ILW6Rm/duCePzr1fxl4isfEVksVk7NHbkPu24DcH15rxpP+P1fqK7PT/8AkHT/AO5/jTGdj4N8Sx22iXVreuVjhJaANnk4OVB/z1rR/wCEzsv+eTf99/8A1q4Oz/5Bsn/XSm0XEf/Z" x="0" y="0" width="28" height="28" clip-path="url(#circleView-5)"/>
         </g>
 
         <!-- Repo Name & PR Number -->
-        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">
-          openfrontio/Open...
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          NotherWael/LCB-I...
         </text>
-        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#60a5fa">
-          #2148
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
+          #2
         </text>
 
         <!-- PR Title -->
-        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#a0a3b1">
-          Slider UI change
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
+          Multiple-tags and auto...
         </text>
 
         <!-- Contribution Type Badge -->
         <g transform="translate(14, 70)">
-          <rect width="65" height="18" rx="4" fill="#22c55e"/>
-          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">
+          <rect width="65" height="18" rx="4" fill="#73daca"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
             Merged
           </text>
         </g>
 
         <!-- Date -->
         <g transform="translate(85, 70)">
-          <svg width="12" height="12" viewBox="0 0 20 20" fill="#22c55e"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
-          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6b7280">
-            Oct 13, 2025
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Sep 17, 2025
           </text>
         </g>
       </g>
