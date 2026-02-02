@@ -33,7 +33,7 @@ jobs:
       - name: Generate contributions SVG
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           # 설정 옵션 (Settings > Secrets and variables > Actions > Variables에서 설정)
           THEME: ${{ vars.THEME || 'light' }}
           AUTO_THEME: ${{ vars.AUTO_THEME || 'false' }}
