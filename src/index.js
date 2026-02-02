@@ -16,6 +16,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // 테스트/데모용 mock 데이터
 function getMockData(username) {
+  const sampleBase64 = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=';
   return {
     username,
     totalPRs: 2,
@@ -25,6 +26,7 @@ function getMockData(username) {
         name: 'ros2/rclpy',
         owner: 'ros2',
         avatarUrl: 'https://github.com/ros2.png?size=40',
+        avatarBase64: sampleBase64,
         prs: [
           {
             number: 1492,
@@ -40,6 +42,7 @@ function getMockData(username) {
         name: 'ros2/rosbag2',
         owner: 'ros2',
         avatarUrl: 'https://github.com/ros2.png?size=40',
+        avatarBase64: sampleBase64,
         prs: [
           {
             number: 2135,

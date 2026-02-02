@@ -10,16 +10,25 @@ const REQUEST_TIMEOUT = 30000; // 30초
 
 function httpsGet(url, headers, retries = 3, returnBuffer = false) {
   return new Promise((resolve, reject) => {
-    const options = {
-      headers: {
-        ...headers,
-        'User-Agent': 'github-contribution-widget'
-      },
-      timeout: REQUEST_TIMEOUT
-    };
+    const makeRequest = (attempt, currentUrl) => {
+      const options = {
+        headers: {
+          ...headers,
+          'User-Agent': 'github-contribution-widget'
+        },
+        timeout: REQUEST_TIMEOUT
+      };
 
-    const makeRequest = (attempt) => {
-      const req = https.get(url, options, (res) => {
+      const req = https.get(currentUrl || url, options, (res) => {
+        if ((res.statusCode === 301 || res.statusCode === 302) && res.headers.location) {
+          if (attempt < retries) {
+            makeRequest(attempt + 1, res.headers.location);
+          } else {
+            reject(new Error('Too many redirects'));
+          }
+          return;
+        }
+
         if (returnBuffer) {
           const chunks = [];
           res.on('data', chunk => chunks.push(chunk));
