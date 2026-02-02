@@ -85,6 +85,9 @@ I’m most interested in contributing to:
 - AI infrastructure
 - Education-focused software
 
+### My Contributions
+![OSS Contributions](./contributions.svg)
+
 ## Contact
 If you want to collaborate, talk shop, or build something questionable in a productive way:
 
