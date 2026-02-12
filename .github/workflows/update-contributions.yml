@@ -37,7 +37,7 @@ jobs:
           # 설정 옵션 (Settings > Secrets and variables > Actions > Variables에서 설정)
           THEME: ${{ vars.THEME || 'light' }}
           AUTO_THEME: ${{ vars.AUTO_THEME || 'false' }}
-          MAX_REPOS: ${{ vars.MAX_REPOS || '6' }}
+          MAX_REPOS: ${{ vars.MAX_REPOS || '10' }}
           TITLE: ${{ vars.TITLE || 'Open-Source Contributions' }}
           SORT_BY: ${{ vars.SORT_BY || 'date' }}
           MONTHS_AGO: ${{ vars.MONTHS_AGO || '' }}
