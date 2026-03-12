@@ -32,7 +32,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp" alt="Indicamp" width="200">
 </div>
 
-## Programming Languages
+## Languages
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
@@ -43,26 +43,16 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
 [![Threejs](https://img.shields.io/badge/ThreeJs-white?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
 
 ## Backend
 [![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
 [![Express](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
-[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)](#)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
 [![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&labelColor=black&logo=celery&logoColor=37814A)](#)
 [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&labelColor=black&logo=Pydantic&logoColor=E92063)](#)
-
-## UI/UX
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-ffffff?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=ffffff)](#)
-[![Radix UI](https://img.shields.io/badge/-Radix%20UI-ffffff?style=for-the-badge&labelColor=black&logo=radixui&logoColor=ffffff)](#)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#)
 
 ## AI
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
@@ -72,16 +62,26 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#)
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain&logoColor=1C3C3C)](#)
 
-## Package Management
-[![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
-[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)](#)
-[![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=for-the-badge&labelColor=black&logo=chocolatey&logoColor=80B5E3)](#)
-
-## DevOps & Deployment
+## DevOps
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
+[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)](#)
+
+## Tools
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
+[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)](#)
+[![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=for-the-badge&labelColor=black&logo=chocolatey&logoColor=80B5E3)](#)
+
+## Design
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
+[![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-ffffff?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=ffffff)](#)
+[![Radix UI](https://img.shields.io/badge/-Radix%20UI-ffffff?style=for-the-badge&labelColor=black&logo=radixui&logoColor=ffffff)](#)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#)
 
 ## Open Source
 I care about open source because it turns private learning into public infrastructure.  
