@@ -44,14 +44,18 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+[![Threejs](https://img.shields.io/badge/ThreeJs-white?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
 
 ## Backend
+[![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
 [![Express](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)](#)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
 [![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&labelColor=black&logo=celery&logoColor=37814A)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&labelColor=black&logo=Pydantic&logoColor=E92063)](#)
 
 ## UI/UX
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
@@ -118,6 +122,7 @@ Chinese: Relearning(former YCT4)
 
 ## OS
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#)
 [![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF4F?style=for-the-badge&labelColor=black&logo=linuxmint&logoColor=87CF4F)](#)
 
 
