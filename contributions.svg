@@ -39,13 +39,13 @@
       <g transform="translate(0, 26)">
         <svg width="16" height="16" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
         <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#73daca">
-          25 PRs Merged · 10 Repos
+          26 PRs Merged · 11 Repos
         </text>
       </g>
       <g transform="translate(364, 5)">
         <rect width="80" height="24" rx="12" fill="#73daca"/>
         <text x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="#1a1b26" text-anchor="middle">
-          Score: 450
+          Score: 480
         </text>
       </g>
     </g>
@@ -71,12 +71,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #67
+          #27
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          fix: user_orchestrator...
+          feat: raw_agent 구현
         </text>
 
         <!-- Contribution Type Badge -->
@@ -91,7 +91,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Mar 5, 2026
+            Mar 4, 2026
           </text>
         </g>
       </g>
@@ -116,12 +116,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #69
+          #29
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: raw_agent 사용자 필터...
+          feat: commit_agent 초기 ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -161,12 +161,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #75
+          #37
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: 통합 파이프라인 원라인 실행 ...
+          feat: user_orchestrato...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -181,7 +181,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Mar 5, 2026
+            Mar 4, 2026
           </text>
         </g>
       </g>
@@ -206,12 +206,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #73
+          #65
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: outline_agent MV...
+          feat: seperation of er...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -251,12 +251,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #72
+          #67
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: episode_agent MV...
+          fix: user_orchestrator...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -296,12 +296,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #29
+          #69
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: commit_agent 초기 ...
+          feat: raw_agent 사용자 필터...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -341,12 +341,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #65
+          #72
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: seperation of er...
+          feat: episode_agent MV...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -386,12 +386,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #37
+          #73
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: user_orchestrato...
+          feat: outline_agent MV...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -406,7 +406,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Mar 4, 2026
+            Mar 5, 2026
           </text>
         </g>
       </g>
@@ -431,12 +431,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #27
+          #75
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: raw_agent 구현
+          feat: 통합 파이프라인 원라인 실행 ...
         </text>
 
         <!-- Contribution Type Badge -->
@@ -451,7 +451,7 @@
         <g transform="translate(85, 70)">
           <svg width="12" height="12" viewBox="0 0 20 20" fill="#73daca"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
           <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
-            Mar 4, 2026
+            Mar 5, 2026
           </text>
         </g>
       </g>
