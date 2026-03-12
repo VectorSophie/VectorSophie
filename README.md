@@ -66,6 +66,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)](#)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain&logoColor=1C3C3C)](#)
 
 ## Package Management
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
