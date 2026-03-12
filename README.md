@@ -49,6 +49,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
 [![Express](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
 [![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&labelColor=black&logo=celery&logoColor=37814A)](#)
@@ -71,6 +72,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Tools
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+[![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&labelColor=black&logo=eslint&logoColor=3A33D1)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
 [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)](#)
