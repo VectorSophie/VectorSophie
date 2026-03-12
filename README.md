@@ -97,6 +97,7 @@ Not interested in:
 - Crypto miracles  
 - “star my repos and back"
 - "definitely not a malware!!! pls PR this mp4!!!"
+- "yo this massive security vulnerability of a program is the new trend try it out"
 
 ## Languages
 English: Literally the preferred choice in many scenarios.
