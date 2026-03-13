@@ -47,7 +47,6 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Backend
 [![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
-[![Express](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
