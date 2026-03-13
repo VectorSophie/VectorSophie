@@ -64,6 +64,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## DevOps
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
