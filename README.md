@@ -38,6 +38,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Rust](https://img.shields.io/badge/-Rust-ffffff?style=for-the-badge&labelColor=black&logo=rust&logoColor=ffffff)](#)
 
 ## Frontend
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -65,6 +66,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 ## DevOps
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639)](#)
+[![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=121011)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
