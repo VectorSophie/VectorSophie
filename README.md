@@ -63,7 +63,7 @@ I like useful software, silly ideas that somehow work, and small projects that t
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#)
 [![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain&logoColor=1C3C3C)](#)
 
-## DevOps
+## Deployment
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
 [![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&labelColor=black&logo=nginx&logoColor=ffffff)](#)
 [![Shell](https://img.shields.io/badge/Shell-ffffff?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=ffffff)](#)
