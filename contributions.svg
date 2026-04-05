@@ -211,7 +211,7 @@
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          hotfix: CD 서버 실행 경로 업데...
+          hotfix: CD 서버 실행 경로 ��...
         </text>
 
         <!-- Contribution Type Badge -->
