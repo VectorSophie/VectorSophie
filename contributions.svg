@@ -346,7 +346,7 @@
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: 에이전트 안정성 최적화 ���...
+          feat: 에이전트 안정성 최��화 및 ...
         </text>
 
         <!-- Contribution Type Badge -->
