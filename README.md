@@ -66,12 +66,11 @@ I like useful software, silly ideas that somehow work, and small projects that t
 ## Deployment
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
 [![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&labelColor=black&logo=nginx&logoColor=ffffff)](#)
-[![Shell](https://img.shields.io/badge/Shell-ffffff?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=ffffff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=3069DE)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=3069DE)](#)
 
 ## Tools
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
