@@ -65,8 +65,8 @@ I like useful software, silly ideas that somehow work, and small projects that t
 
 ## Deployment
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
-[![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&labelColor=black&logo=nginx&logoColor=ffffff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=3069DE)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&labelColor=black&logo=nginx&logoColor=ffffff)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
