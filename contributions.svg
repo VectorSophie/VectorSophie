@@ -476,12 +476,12 @@
           Pommit/pommit
         </text>
         <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7dcfff">
-          #1280
+          #1167
         </text>
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          feat: commit_agent det...
+          feat: LLM Judge 채점 편향 ...
         </text>
 
         <!-- Contribution Type Badge -->
