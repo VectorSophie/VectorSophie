@@ -1,12 +1,9 @@
 name: Update Contributions SVG
 
 on:
-  # 하루 3번 자동 실행 (UTC 00:00, 08:00, 16:00 = 한국시간 09:00, 17:00, 01:00)
   schedule:
     - cron: '0 0,8,16 * * *'
-  # 수동 실행 지원
   workflow_dispatch:
-  # main/master 브랜치 push 시 실행
   push:
     branches:
       - main
@@ -15,15 +12,23 @@ on:
       - 'src/**'
       - '.github/workflows/update-contributions.yml'
 
+concurrency:
+  group: update-contributions-svg-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-svg:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -34,7 +39,6 @@ jobs:
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
-          # 설정 옵션 (Settings > Secrets and variables > Actions > Variables에서 설정)
           THEME: ${{ vars.THEME || 'light' }}
           AUTO_THEME: ${{ vars.AUTO_THEME || 'false' }}
           MAX_REPOS: ${{ vars.MAX_REPOS || '10' }}
@@ -50,6 +54,19 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
           git add contributions.svg
-          git diff --staged --quiet || git commit -m "chore: update contributions SVG [skip ci]"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update contributions SVG [skip ci]"
+
+          BRANCH="${GITHUB_REF_NAME}"
+
+          git fetch origin "$BRANCH"
+          git pull --rebase origin "$BRANCH"
+
+          git push origin "HEAD:$BRANCH"
