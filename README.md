@@ -109,7 +109,7 @@ Not interested in:
 - "yo this massive security vulnerability of a program is the new trend try it out"
 
 ## Languages
-English: Literally the preferred choice in many scenarios.
+English: Literally the preferred choice in many scenarios.(OPIc AL)
 
 Korean: Native language, i do poetry and short stories occasionally.
 
