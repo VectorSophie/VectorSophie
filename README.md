@@ -98,14 +98,14 @@ I’m most interested in contributing to:
 ![OSS Contributions](./contributions.svg)
 
 ## Contact
-If you want to collaborate, talk shop, or build something questionable in a productive way:
+If you want to collaborate, talk shop, coffee chat or build something questionable in a productive way:
 
 **jay7math@gmail.com**  
 
 Not interested in:
 - Crypto miracles  
 - “star my repos and back"
-- "definitely not a malware!!! pls PR this mp4!!!"
+- "definitely not a malware!!! pls PR this .exe!!!"
 - "yo this massive security vulnerability of a program is the new trend try it out"
 
 ## Languages
