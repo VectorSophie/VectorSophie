@@ -2,137 +2,83 @@
 
 <div style="display: flex; gap: 1rem; align-items: stretch;">
   <img src="https://github-stats-iota-gray.vercel.app/api/top-langs/?username=VectorSophie&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=10&card_width=500&locale=en&v=6" style="height:200px; object-fit: cover;" alt="Top Langs">
-  <img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight&v=1" style="height: 200px; object-fit: cover;" alt="GitHub Stats">
+  <img src="https://github-stats-iota-gray.vercel.app/api?username=VectorSophie&show_icons=true&layout=compact&theme=tokyonight&v=1" style="height:200px; object-fit: cover;" alt="GitHub Stats">
 </div>
 
 > _**End-to-end, open & open. Until every end-to-end flow is open to public.**_
 
-Fullstack developer focused on AI-powered web apps, LLM systems, and open-source tools.
+I build developer tools and study AI agents, security, and the strange ways models behave. I also make web apps, terminal oddities, and occasionally write fiction.
 
-[Github page](https://vector-sophie-github-io.vercel.app/)
+[GitHub page](https://vector-sophie-github-io.vercel.app/)
 
-Small projects from time to time, most big projects are in orgs!
-
-I like useful software, silly ideas that somehow work, and small projects that teach lessons.
+Small projects from time to time; most big projects are in orgs. I like useful software, silly ideas that somehow work, and small projects that teach lessons.
 
 ## Featured Projects
 
-**personal projects**
+**Personal projects**
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=OpenFrontIO" alt="OpenFrontIO" width="200">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Lingomon" alt="Lingomon" width="200">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=Arknights-ClassPredictor" alt="Arknights-ClassPredictor" width="200">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=StructGen" alt="StructGen" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=anatomiae" alt="anatomiae" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=envoy-ai-gateway-memory-poc" alt="Envoy AI Gateway memory PoC" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=upstage-cli" alt="upstage-cli" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=TorchOS" alt="TorchOS" width="200">
 </div>
 
-**team projects**
+**Team projects**
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=Finecone&repo=frontend" alt="Finecone" width="200">
-  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack&v=1"alt="SYN_flooding"width="200"/>
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=SYNflooding&repo=FullStack&v=1" alt="SYN_flooding" width="200">
   <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=VectorSophie&repo=indicamp" alt="Indicamp" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=Pommit&repo=pommit" alt="Pommit" width="200">
 </div>
 
-## Languages
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
-[![Rust](https://img.shields.io/badge/-Rust-ffffff?style=for-the-badge&labelColor=black&logo=rust&logoColor=ffffff)](#)
+**Open-source contributions**
 
-## Frontend
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
-[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)
-[![Threejs](https://img.shields.io/badge/ThreeJs-white?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=ekimiateam&repo=libertix" alt="Libertix" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=openfrontio&repo=OpenFrontIO" alt="OpenFrontIO" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=NotherWael&repo=LCB-ID-TLs" alt="LCB-ID-TLs" width="200">
+  <img src="https://github-stats-iota-gray.vercel.app/api/pin/?username=ekimiateam&repo=linux-universal-driver" alt="Linux universal driver" width="200">
+</div>
 
-## Backend
-[![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&labelColor=black&logo=fastapi&logoColor=009688)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=316192)](#)
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=2D3748)](#)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
-[![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&labelColor=black&logo=celery&logoColor=37814A)](#)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&labelColor=black&logo=Pydantic&logoColor=E92063)](#)
+Libertix, OpenFrontIO, Pommit, and LCB-ID-TLs have merged contributions. Linux universal driver contributions are currently under review.
 
-## AI
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)](#)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](#)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)](#)
-[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain&logoColor=1C3C3C)](#)
+## What I work with
 
-## Deployment
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=3069DE)](#)
-[![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&labelColor=black&logo=nginx&logoColor=ffffff)](#)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF)](#)
-[![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=for-the-badge&labelColor=black&logo=vercel&logoColor=ffffff)](#)
-[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=3ECF8E)](#)
-
-## Tools
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
-[![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&labelColor=black&logo=eslint&logoColor=3A33D1)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)](#)
-[![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
-[![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)](#)
-[![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=for-the-badge&labelColor=black&logo=chocolatey&logoColor=80B5E3)](#)
-
-## Design
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-ffffff?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=ffffff)](#)
-[![Radix UI](https://img.shields.io/badge/-Radix%20UI-ffffff?style=for-the-badge&labelColor=black&logo=radixui&logoColor=ffffff)](#)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#)
+**Languages:** Python · Rust · TypeScript · JavaScript · SQL  
+**AI & research:** PyTorch · Transformers · vLLM · Playwright  
+**Apps & infrastructure:** React · Next.js · FastAPI · PostgreSQL · Docker · GitHub Actions  
+**Creative web:** Three.js · Svelte
 
 ## Open Source
-I care about open source because it turns private learning into public infrastructure.  
-I’m most interested in contributing to:
-- Dev tools
-- AI infrastructure
-- Education-focused softwares
 
-### My Contributions
-![OSS Contributions](./contributions.svg)
+I care about open source because it turns private learning into public infrastructure. I mostly gravitate toward developer tools, AI infrastructure, and software people can actually run and inspect.
 
 ## Contact
-If you want to collaborate, talk shop, coffee chat or build something questionable in a productive way:
 
-**jay7math@gmail.com**  
+If you want to collaborate, talk shop, coffee chat, or build something questionable in a productive way:
+
+**jay7math@gmail.com**
 
 Not interested in:
-- Crypto miracles  
-- “star my repos and back"
-- "definitely not a malware!!! pls PR this .exe!!!"
-- "yo this massive security vulnerability of a program is the new trend try it out"
+- Crypto miracles
+- “star my repos and back”
+- “definitely not a malware!!! pls PR this .exe!!!”
+- “yo this massive security vulnerability of a program is the new trend try it out”
 
-## Languages
-English: Literally the preferred choice in many scenarios.(OPIc AL)
+## Human languages
 
-Korean: Native language, i do poetry and short stories occasionally.
-
-Chinese: Relearning(former YCT4)
+English: Literally the preferred choice in many scenarios. (OPIc AL)  
+Korean: Native language; I do poetry and short stories occasionally.  
+Chinese: Relearning (former YCT4).
 
 ## Social / Profiles
-[![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)](https://github.com/VectorSophie)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/baeck-dongjae-368886368/)
-[![Naver](https://img.shields.io/badge/-Naver-03C75A?style=for-the-badge&labelColor=black&logo=naver&logoColor=03C75A)](https://blog.naver.com/paranormalian)
-[![Notion](https://img.shields.io/badge/-Notion-ffffff?style=for-the-badge&labelColor=black&logo=notion&logoColor=ffffff)](#)
-[![Velog](https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&labelColor=black&logo=velog&logoColor=20C997)](https://velog.io/@vectorsophie/posts)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&labelColor=black&logo=ko-fi&logoColor=F16061)](https://ko-fi.com/vectorsophie)
 
-## OS
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#)
-[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF4F?style=for-the-badge&labelColor=black&logo=linuxmint&logoColor=87CF4F)](#)
-
+[GitHub](https://github.com/VectorSophie) · [LinkedIn](https://www.linkedin.com/in/baeck-dongjae-368886368/) · [Naver](https://blog.naver.com/paranormalian) · [Velog](https://velog.io/@vectorsophie/posts) · [Ko-fi](https://ko-fi.com/vectorsophie)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="images/breakout-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"srcset="images/breakout-light.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
