@@ -83,7 +83,8 @@ Small projects from time to time; most big projects are in orgs. I like useful s
 - **low level:** linux, docker, qemu, clang, asan, ubsan, wasm
 - **web & apps:** react, next.js, three.js, fastapi, postgresql, redis
 - **research:** pytest, coverage tools, latex, jupyter
-## Open Source
+
+## OSS
 
 I care about open source because it turns private learning into public infrastructure. I mostly gravitate toward developer tools, AI infrastructure, and software people can actually run and inspect.
 
