@@ -481,7 +481,7 @@
 
         <!-- PR Title -->
         <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#9aa5ce">
-          hotfix: API 테스트 슬�� 배포...
+          hotfix: API 테스트 슬롯 배포 ...
         </text>
 
         <!-- Contribution Type Badge -->
