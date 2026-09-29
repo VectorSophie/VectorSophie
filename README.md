@@ -82,8 +82,8 @@ small projects from time to time; most big projects are in orgs. I like useful s
 
 ## what i work with
 
-- **ai:** python, pytorch, transformers, vllm, scikit-learn
-- **agents:** mcp, opencode, claude code, agent skills, playwright
+- **ai:** python, pytorch, transformers, vllm, scikit-learn, krasis
+- **agents:** mcp, opencode, claude code, agent skills, playwright, codex
 - **dev tools:** rust, go, typescript, bun, opentui, git, github actions
 - **low level:** linux, docker, qemu, clang, asan, ubsan, wasm
 - **web & apps:** react, next.js, three.js, fastapi, postgresql, redis
@@ -101,16 +101,16 @@ If you want to collaborate, talk shop, coffee chat, or build something questiona
 
 Not interested in:
 
-- Crypto miracles
+- crypto miracles
 - “star my repos and back”
 - “definitely not a malware!!! pls PR this .exe!!!”
 - “yo this massive security vulnerability of a program is the new trend try it out”
 
 ## languages
 
-English: Literally the preferred choice in many scenarios. (OPIc AL)  
-Korean: Native language; I do poetry and short stories occasionally.  
-Chinese: Relearning (former YCT4).
+english: Literally the preferred choice in many scenarios. (OPIc AL)  
+korean: Native language; I do poetry and short stories occasionally.  
+chinese: Relearning (former YCT4).
 
 ## socials
 
